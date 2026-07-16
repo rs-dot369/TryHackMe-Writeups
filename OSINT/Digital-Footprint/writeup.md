@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Digital Footprint
 
 - **URL:** https://tryhackme.com/room/osintchallengeiv
@@ -122,4 +121,3 @@ To perform a comprehensive investigation into "ACME Jet Solutions" by validating
 
 ---
 *Back to [README](../../README.md)*
->>>>>>> 5ac20217e8da52cc9a66255f218270ca18d2a769
