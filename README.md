@@ -6,7 +6,7 @@ A collection of technical walkthroughs and methodology notes for labs completed 
 
 | Room Name | Difficulty | Category | Date Completed | Writeup |
 | :--- | :--- | :--- | :--- | :--- |
-| [Example Room Name](https://tryhackme.com/r/room/example) | Easy | Web Exploitation | 2026-07-16 | [Link](./Web-Exploitation/Example-Room.md) |
+| [Digital-Footprint]([https://tryhackme.com/r/room/exampl](https://tryhackme.com/room/osintchallengeiv)) | Easy | OSINT | 2026-07-16 | [Link](./OSINT/Digital-Footprint/writeup.md) |
 
 ## 🚀 Learning Path
 - [ ] OSINT
