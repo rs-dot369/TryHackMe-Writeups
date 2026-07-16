@@ -4,9 +4,9 @@ A collection of technical walkthroughs and methodology notes for labs completed 
 
 ## 📚 Table of Contents
 
-| Room Name | Difficulty | Category | Date Completed | Writeup |
-| :--- | :--- | :--- | :--- | :--- |
-| [Example Room Name](https://tryhackme.com/r/room/example) | Easy | Web Exploitation | 2026-07-16 | [Link](./Web-Exploitation/Example-Room.md) |
+| Room Name | Techniques Applied | Category | Writeup |
+| :--- | :--- | :--- | :--- |
+| [Digital-Footprint](https://tryhackme.com/room/osintchallengeiv) | Metadata Analysis, Geolocation | OSINT | [Link](./OSINT/Digital-Footprint/writeup.md) |
 
 ## 🚀 Learning Path
 - [ ] OSINT
